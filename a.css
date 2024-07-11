@@ -1,0 +1,10 @@
+body,ul,li,h1,p,a{margin:0;padding:0;width:100%;}
+a{text-decoration: none;color:black;}
+#h{position:fixed;top:0;left:0;right:0;height:40px;background-color:#1C86EE;text-align:center;}
+#h a{color:white;}
+ul{width:100%;margin-top:42px;}
+li{list-style-type:none;border-top: 1px solid #ddd;padding:10px 0;}
+li a{display:block;text-align:center;}
+#t{position:fixed;padding:10px;bottom:0;left:0;right:0;display:flex;justify-content:center;align-items:center;background-color:#1C86EE;border-radius:2px;}
+#f{width:100%;height:20px;padding:5px;border:none;border-radius:30px;text-align:center;}
+#foo{background:#999;text-align:center;color:#ddd;font-size:12px;padding:5px;margin-bottom:80px;}
